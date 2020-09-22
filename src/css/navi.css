@@ -1,0 +1,17 @@
+.navi button {
+  width: 300px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: rgb(211, 146, 197);
+  border: 1px solid rgb(197, 116, 150);
+}
+
+.navi button:hover {
+  width: 300px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 3px;
+  border: 1px solid rgb(109, 93, 112);
+}
